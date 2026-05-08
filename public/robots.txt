@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xss-payload-lab.vercel.app/sitemap.xml

@@ -1,0 +1,6 @@
+# XSS Payload Lab
+
+A static browser security playground for learning XSS payload contexts, output encoding, DOM sinks, challenge fixes, and CSP behavior.
+
+- [Application](https://xss-payload-lab.vercel.app/)
+- [Source code](https://github.com/ahmedremi/xss-payload-lab)
